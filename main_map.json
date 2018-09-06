@@ -1,0 +1,42 @@
+{ "height":9,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 47, 47, 47, 47, 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 47, 49, 49, 49, 47, 0, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 49, 47, 49, 47, 0, 47, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 49, 47, 49, 47, 0, 47, 49, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 49, 47, 0, 47, 49, 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 47, 49, 47, 47, 47, 49, 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 47, 49, 49, 49, 49, 49, 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 47, 47, 47, 47, 47, 47, 47],
+         "height":9,
+         "name":"\u0421\u043b\u043e\u0439 \u0442\u0430\u0439\u043b\u043e\u0432 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":16,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.1.6",
+ "tileheight":40,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"..\/..\/Users\/Admin\/Downloads\/Indi\/From tiles\/desert.tsx"
+        }, 
+        {
+         "columns":1,
+         "firstgid":49,
+         "image":"..\/..\/Users\/Admin\/Downloads\/Indi\/\u0444\u043e\u043d\/road.jpg",
+         "imageheight":40,
+         "imagewidth":40,
+         "margin":0,
+         "name":"road",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":40,
+         "tilewidth":40
+        }],
+ "tilewidth":40,
+ "type":"map",
+ "version":1,
+ "width":16
+}
